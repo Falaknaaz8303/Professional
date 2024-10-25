@@ -1,0 +1,231 @@
+body{
+    background-color: rgb(223, 215, 240);
+}
+.headdiv{
+    background-color: rgb(21, 68, 68);
+    height: 80px;
+}
+
+.coursesbtn{
+    float: right;
+    margin-right: 90px;
+    padding: 10px 30px 10px 30px;
+    font-size: medium;
+    margin-top: 20px;
+    background-color: rgb(21, 68, 68);
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2.5px;
+}
+.homebtn{
+    margin-left: 1170px;
+    padding: 10px 30px 10px 30px;
+    font-size: medium;
+    margin-top: 20px;
+    background-color: rgb(21, 68, 68);
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2.5px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.div1child1 img{
+    margin-top: 150px;
+    border: 5px solid rgb(145, 133, 133);
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0px -25px 20px -20px rgba(238, 103, 103, 0.45),
+25px 0px 20px -20px rgba(238, 103, 103, 0.45),
+0px 25px 20px -20px rgba(0,0,0,0.45),
+-25px 0px 20px -20px rgba(0,0,0,0.45);
+  }
+
+.div1child2{
+    margin-top: 90px;
+}
+.div2{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    gap: 70px;
+}
+.div2child1 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+}
+.div2child2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+}
+.div2child3 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+}
+.div2child4 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+}
+.div2child5 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+}
+.div2child6 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+}
+.div2child7 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+}
+.div4{
+    height: 400px;
+    width: 70%;
+    border: 1px solid rgb(21, 68, 68);
+    border-radius: 20px;
+    margin: auto;
+    background-color: rgb(21, 68, 68);
+
+}
+.div3{
+    width: fit-content;
+    color:  rgb(21, 68, 68);
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div4 p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 50px 30px 0px 30px;
+    font-size: 14px;
+    line-height: 20px;
+}
+.div5{
+    width: fit-content;
+    color:  rgb(21, 68, 68);
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div5child2 h3{
+    margin-left: 20px;
+}
+.div6{
+    height: 390px;
+    width: 70%;
+    border: 1px solid rgb(21, 68, 68);
+    border-radius: 20px;
+    margin: auto;
+    background-color: #154444;
+}
+.div6 h3{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div5child3 {
+    
+    height: 150px;
+    margin-top: 130px;
+}
+.div5child3 img{
+    height: 150px;
+    width: 350px;
+}
+.div5child1{
+    display: flex;
+}
+.div7{
+    width: fit-content;
+    color:  rgb(21, 68, 68);
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div8{
+    height: 300px;
+    width: 70%;
+    border: 1px solid rgb(21, 68, 68);
+    border-radius: 20px;
+    margin: auto;
+    background-color: #154444;
+}
+.div8 p{
+    font-size: 20px;
+    color: white;
+    padding: 40px 50px 0px 50px;
+    line-height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div9{
+    width: fit-content;
+    color:  rgb(21, 68, 68);
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div9child1{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.div9child1 img{
+    height: 500px;
+    width: 600px;
+    box-shadow: 0px -25px 20px -20px rgba(238, 103, 103, 0.45),
+30px 0px 20px -20px rgba(238, 103, 103, 0.45),
+0px 25px 20px -20px rgba(0,0,0,0.45),
+-25px 0px 20px -20px rgba(0,0,0,0.45);
+}
+.div10{
+    width: fit-content;
+    color:  white;
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(21, 68, 68);
+    padding: 0px 20px 0px 20px;
+}
+.readimg{
+    width: 400px;
+    height: 300px;
+    margin-left: 150px;
+}
+.div11{
+    width: fit-content;
+    color:  white;
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(21, 68, 68);
+    padding: 0px 20px 0px 20px;
+}
+.div11child1{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 80px;
+}
+.div11child1 img{
+    box-shadow: 0px -25px 20px -20px rgba(238, 103, 103, 0.45),
+30px 0px 20px -20px rgba(238, 103, 103, 0.45),
+0px 25px 20px -20px rgba(0,0,0,0.45),
+-25px 0px 20px -20px rgba(0,0,0,0.45);
+}
